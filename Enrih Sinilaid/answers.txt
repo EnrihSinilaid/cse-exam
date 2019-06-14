@@ -1,0 +1,3 @@
+1) In total on all branches there should be 82 commits; git rev-list --all --remotes --count
+2) Line 10 in file index.html was last changed by Stepan Bolotnikov 2018-05-07 19:17:18; git blame -L 10,+1 -- index.html
+3) commits 865cbc8 message was "Added travis config file"; git show -s --format=%B 865cbc8
